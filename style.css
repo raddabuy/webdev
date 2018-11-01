@@ -171,6 +171,7 @@ display: none;
 }
 .services__card h4{
   margin: 20px 0;
+  text-transform: uppercase;
 }
 .main__clients{
   background: black;
@@ -362,6 +363,8 @@ h1:after{
       display: block;
       text-align: left;
     }
+
+
 
     main .mail__welcome{
       padding: 50px 0 50px 0;
